@@ -1,0 +1,11 @@
+body{
+    min-height: 4096px;
+}
+.scroll{
+    height: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: black;
+    transition: width 0.25s ease-in-out
+}
