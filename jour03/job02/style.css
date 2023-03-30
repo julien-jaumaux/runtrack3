@@ -1,0 +1,11 @@
+ol,li{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+#game{
+    width: 900px;
+    min-height: 410px;
+    border: solid;
+    display: flex;
+}

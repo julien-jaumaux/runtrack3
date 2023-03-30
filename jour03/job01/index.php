@@ -7,8 +7,7 @@
     <title>job01</title>
 </head>
 <body>
-    <h1>Les logiciels et les cathédrales, c'est un peu la même chose - d'abord on les construit,
-        ensuite on prie.</h1>
+    
     <button id="b1">hide() le titre</button>
     <button id="b2">show() le titre</button>
 
