@@ -33,7 +33,7 @@
         <input type="text" id="prenom" name="prenom">
         <label for="adresse">Adresse:</label>
         <input type="text" id="adresse" name="adresse"><br>
-        <label for="email">Entrez votre emial:</label>
+        <label for="email">Entrez votre email:</label>
         <input type="email" id="email" name="email"> <br> 
         <label for="password">Entrez votre password:</label>
         <input type="password" placeholder="Password" id="password" required>
