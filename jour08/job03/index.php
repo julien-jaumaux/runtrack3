@@ -50,7 +50,7 @@
         <input type="checkbox" id="lecture" name="lecture" checked><br>
         <button type="submit" name="submit" id="submit">Envoyer formulaire</button>
     </form>
-    <footer>
+    <footer class="text-white-600 text-center bg-gray-500 h-5 space-x-10 ">
         <a href="index.php">Accueil</a>
         <a href="index.php">Inscription</a>
         <a href="index.php">Connexion</a>
